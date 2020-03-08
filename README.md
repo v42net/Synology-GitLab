@@ -35,7 +35,7 @@
     *	gitlab_rails['gitlab_shell_ssh_port'] = 8022
     *	nginx['listen_port'] = 80
   *	Use “gitlab-ctl reconfigure“ to activate the modified settings.
-*	Wait a couple of minutes to allow the GitLab to initialize after the reconfiguration.
+*	Wait a couple of minutes to allow GitLab to initialize after the reconfiguration.
 *	Open http://example.com:8080/ and check if GitLab functions correctly.
 
 Backup procedure
