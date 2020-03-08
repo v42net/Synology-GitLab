@@ -22,7 +22,7 @@
 ## Configuration procedure
 
 *	Open http://example.com:8080/ and sign in as user ‘root’.
-  *	Open “Admin Area”   “Settings”  “General”  “Visibility and access controls”.
+  *	Open “Admin Area” => “Settings” => “General” => “Visibility and access controls”.
   *	Configure “Custom Git clone URL for HTTP(S)” as “http://example.com:8080“.
 *	Open DSM Control Panel and under “Applications” open “Terminal & SNMP”.
   *	Enable the SSH service.
