@@ -1,3 +1,5 @@
+# Installing GitLab on a Synology DS415+
+
 **Before reading any further:** do **NOT** try this on a standard Synology DS415+ with 4GB of memory. You need at least 8GB to to run GitLab and still be able to use your Synology. I upgraded my DS415+ to 8GB which would have voided the warranty if it hadn't expired yet. 
 
 ## Installation procedure
