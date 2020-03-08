@@ -40,6 +40,6 @@
 *	Wait a couple of minutes to allow GitLab to initialize after the reconfiguration.
 *	Open http://example.com:8080/ and check if GitLab functions correctly.
 
-Backup procedure
+## Backup procedure
 
 *	To be documented ...
